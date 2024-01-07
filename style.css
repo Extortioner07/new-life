@@ -1,0 +1,124 @@
+body{
+    background: rgb(255, 251, 237);
+    font-family: 'Work Sans', sans-serif;
+}
+.banner1{
+    background-image: url(banner3.png);
+    background-repeat: no-repeat;
+  height: 1000px;
+  width:100%;
+  background-size: contain;
+}
+.header{
+    padding-right: 10%;
+    padding-left: 60%;
+    padding-top: 16%;
+}
+.banner-p{
+    font-size: 45px;
+    color: aliceblue;
+}
+.banner-p1{
+    font-size: 18px;
+    color: aliceblue;
+}
+.button{
+    margin: 5px 8px;
+    padding: 8px 10px;
+}
+.contact1{
+    list-style: none;
+}
+.article{
+    display: flex;
+    margin-top: 60px;
+    gap: 120px;
+    justify-content: space-between;
+    margin-left: 20%;
+    background-size: contain;
+}
+.title{
+    padding: 15% 0;
+    padding-right: 25%;
+}
+.title-1{
+    font-size: 35px;
+}
+.about{
+    font-size: 16px;
+    color: rgb(172, 97, 7);
+}
+.list li{
+    list-style: none;
+}
+.photo{
+    align-items: center;
+    margin-top: 120px;
+}
+.plan{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.photo1{
+    display: flex;
+    gap: 120px;
+    padding-left: 28%;
+
+}
+.f1{
+text-align: center;
+}
+.title3{
+    align-items: center;
+    margin-top: 130px;
+   background-image: url(gradient1.png), url(watch.png);
+   background-repeat: no-repeat;
+   background-blend-mode:hard-light;
+   height: 300px;
+   background-position: center;
+}
+.title4{
+ margin-left: 22%;
+ padding-top: 25px;
+ font-size: 30px;
+ color: aliceblue;
+ font-weight: 700;
+ column-gap: 2px;
+}
+.button{
+    border: 0;
+    border-radius: 5px;
+    margin-top: 0;
+    padding: 5px 10px;
+}
+footer{
+    background-color: rgb(39, 37, 37);
+    display: flex;
+    justify-content: space-between;
+    gap: 130px;
+    padding: 90px 10%;
+    margin-top: 150px;
+}
+.tag{
+    color: aliceblue;
+}
+.tag1{
+    color: aliceblue;
+}
+.sub{
+    color: rgb(10, 10, 10);
+    
+}
+.e{
+    color: aliceblue;
+}
+.p{
+    color: aliceblue;
+}
+.detail input[type="email"]{
+    width: 60%;
+    display: block;
+    margin-bottom: 15px;
+    padding: 10px 30px;
+    padding-left: 10px;
+}
